@@ -6,7 +6,7 @@ The `simulation` and `application` folders contain the code for the simulation s
 All numerical studies were conducted on a CPU server using parallel computing.
 
 
-***** Simulation *****
+## Simulation 
 
 For single-source simulations with a common set of covariates in the target and source studies, run:
 
@@ -25,7 +25,7 @@ For multi-source simulations, run:
     Rscript sim_multi_source.R
 
 
-***** Application *****
+## Application
 
 To perform the main analysis and estimate the target model, run:
 
